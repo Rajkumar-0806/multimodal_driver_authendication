@@ -45,7 +45,7 @@ multimodal-driver-auth/
 🛠️ Installation & Usage
 
 Clone the repository and install dependencies:
-git clone https://github.com/yourusername/multimodal-driver-auth.git
+git clone (https://github.com/Rajkumar-0806/multimodal_driver_authendication)
 cd multimodal-driver-auth
 pip install -r requirements.txt
 Preprocess the dataset:
@@ -62,7 +62,7 @@ python scripts/train_stub.py
 
 📜 Citation
 If you use this code or dataset in your research, please cite the corresponding article:
-Rajkumar S. C., “Adaptive Multimodal Driver Authentication Framework with Gait, Face, and Voice Biometrics”, Scientific Reports, 2025.
+
 ________________________________________
 📄 License
 This project is released under the Common license
